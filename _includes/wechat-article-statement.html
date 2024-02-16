@@ -1,0 +1,11 @@
+<HR>
+{% if page.wechat-article %}
+
+  {% if page.wechat-url %}
+    这篇文章也发表在我的公众号上：<a href={{ page.wechat-url }}>传送门</a>。
+  {% else %}
+    这篇文章也发表在我的公众号上。
+  {% endif %}
+
+{% endif %}
+<HR>
