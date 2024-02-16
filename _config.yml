@@ -15,12 +15,12 @@ future: true
 RSS: false
 link_name:  wepro-uk
 you_username:  wepro-uk
-weibo_username: wepro
+weibo_username: xmcmj5
 zhihu_username: wepro-uk
 github_username:  wepro-uk
-twitter_username: WePro_UK
-facebook_username: wepro
-linkedin_username:  wepro
+twitter_username: jemmy_cn
+facebook_username: jemmy.cn
+linkedin_username:  mingjie-chen
 jianshu_username: b663ec36410e
 email_address: info@wepro.uk
 139_username:  wepro
@@ -75,11 +75,11 @@ disqus_username: wepro
 netease_comment: false
 
 # Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
+Baidu Analytics
+ba_track_id: 5fe3ef601ea06188fcd208848014b8c6
 
 # Google Analytics
-ga_track_id: "G-ST9558N61S" # Format: UA-xxxxxx-xx
+ga_track_id: 'G-ST9558N61S' # Format: UA-xxxxxx-xx
 ga_domain: wepro.uk
 
 # Sidebar settings
