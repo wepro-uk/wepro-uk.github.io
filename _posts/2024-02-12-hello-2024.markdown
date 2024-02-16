@@ -87,7 +87,7 @@ tags:
 
 这个网站的成功搭建，离不开各位陌生大佬们的帮助，在这里向大佬们表示感谢。建立此网站以及撰写此文所用到的参考资料都在下面列出。本人学识和精力有限，如有错误，欢迎斧正。
 
-###### 参考模板和教程
+## 参考模板和教程
 
 - Hux的模板和使用说明：
 	- **[HuxBlog Boilerplate](https://github.com/Huxpro/huxblog-boilerplate)** （使用说明：[README.zh.md](https://github.com/Huxpro/huxblog-boilerplate/blob/master/README.zh.md) ）
