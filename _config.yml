@@ -75,7 +75,7 @@ disqus_username: wepro
 netease_comment: false
 
 # Analytics settings
-Baidu Analytics
+#Baidu Analytics
 ba_track_id: 5fe3ef601ea06188fcd208848014b8c6
 
 # Google Analytics
