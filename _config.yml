@@ -5,7 +5,7 @@ header-img: img/home-bg-sea.jpg
 email: info@wepro.uk
 description: "这里是 @WePro微专业 的专属网站，与你一起发现更大的世界 | 自强不息，止于至善。"
 keyword: "WePro, 微专业, WePro微专业, 鬼栈, @WePro, @微专业, @WePro微专业, 个人网站, 互联网, Web, 专属网站, 集成电路, 半导体, 前端, 设计"
-url: "ttps://www.wepro.uk" # your host, for absolute URL
+url: "https://wepro.uk" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -69,6 +69,7 @@ kramdown:
 
 # Disqus settings
 disqus_username: wepro
+
 
 # Netease settings
 netease_comment: false
