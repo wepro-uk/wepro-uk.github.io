@@ -68,7 +68,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: wepro_uk
+disqus_username: wepro
 
 # Netease settings
 netease_comment: false
