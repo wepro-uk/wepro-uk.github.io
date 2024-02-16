@@ -81,6 +81,7 @@ ba_track_id: 5fe3ef601ea06188fcd208848014b8c6
 # Google Analytics
 ga_track_id: 'G-ST9558N61S' # Format: UA-xxxxxx-xx
 ga_domain: www.wepro.uk
+google-analytics: G-ST9558N61S'
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
