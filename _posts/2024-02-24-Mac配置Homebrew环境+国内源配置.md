@@ -6,7 +6,7 @@ date: 2024-02-24 21:00:00
 author: "WePro"
 copyright-statement: 
 hidden: false
-header-img: "img/post-bg-google-analysis.jpg"
+header-img: "img/post/post-bg-homebrew.jpg"
 excerpt: Homebrew Enviroment
 catalog: true
 tags:
@@ -147,5 +147,6 @@ origin	http://mirrors.ustc.edu.cn/homebrew-core.git (push)
 
 [Homebrew on Apple Silicon](https://soff.es/blog/homebrew-on-apple-silicon)
 
-[Homebrew Documentation.](https://docs.brew.sh/Installation#untar-anywhere)
+[Homebrew Documentation](https://docs.brew.sh/Installation#untar-anywhere)
 
+[m1 MBA配置Homebrew环境+国内源配置](https://blog.csdn.net/qq_41437512/article/details/112435816)

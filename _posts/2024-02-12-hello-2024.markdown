@@ -4,7 +4,7 @@ title:      "Hello, World! 你好，从新开始"
 subtitle:   "从零开始的网站搭建之路"
 date:       2024-02-15 09:00:00
 author:     "WePro"
-header-img: "img/post-bg-2024.jpg"
+header-img: "img/post/post-bg-2024.jpg"
 excerpt: 本文详细介绍了本网站搭建的完整过程，并介绍该网站的使用教程。
 catalog: true
 tags:

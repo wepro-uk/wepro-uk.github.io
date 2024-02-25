@@ -6,7 +6,7 @@ date: 2024-02-24 22:00:00
 author: "WePro"
 copyright-statement: 
 hidden: false
-header-img: "img/post-bg-google-analysis.jpg"
+header-img: "img/post/post-bg-win-jekyll.jpg"
 excerpt: Windows 系统上安装 Jekyll
 catalog: true
 tags:

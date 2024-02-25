@@ -6,7 +6,7 @@ date: 2024-02-18 11:00:00
 author: "WePro"
 copyright-statement: 
 hidden: false
-header-img: "img/post-bg-google-analysis.jpg"
+header-img: "img/post/post-bg-google-analysis.jpg"
 excerpt: And thus know more about your visitors.
 catalog: true
 tags:
