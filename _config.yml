@@ -1,11 +1,11 @@
 # Site settings
-title: WePro
-SEOTitle: WePro| 微专业
+title: 马銮湾1号
+SEOTitle: 马銮湾1号| ONE XIAMEN BAY
 header-img: img/home-bg.jpg
-email: info@wepro.uk
-description: "这里是 @WePro微专业 的专属网站，与你一起发现更大的世界 | 自强不息，止于至善。"
-keyword: "WePro, 微专业, WePro微专业, 鬼栈, @WePro, @微专业, @WePro微专业, 个人网站, 互联网, Web, 专属网站, 集成电路, 半导体, 前端, 设计"
-url: "https://wepro.uk" # your host, for absolute URL
+email: info@one.wenew.uk
+description: "这里是 @马銮湾1号 ONE XIAMEN BAY 的专属网站，与你一起共建美好的小区 | 智慧小区，和谐生活。"
+keyword: "马銮湾1号, ONE XIAMEN BAY, 乐活岛, 马銮湾新城, 海沧新城, 中心岛, 南岛"
+url: "https://one.wenew.uk" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,19 +15,19 @@ future: true
 RSS: false
 link_name:  wepro-uk
 you_username:  wepro-uk
-weibo_username: xmcmj5
-zhihu_username: wepro-uk
-github_username:  wepro-uk
-twitter_username: jemmy_cn
-facebook_username: jemmy.cn
-linkedin_username:  mingjie-chen
-jianshu_username: b663ec36410e
-email_address: info@wepro.uk
-139_username:  wepro
-yun_username:  wepro
-pan_username:  wepro
-zspace_username:  wepro
-lexar_username:  wepro
+# weibo_username: xmcmj5
+# zhihu_username: wepro-uk
+# github_username:  wepro-uk
+# twitter_username: jemmy_cn
+# facebook_username: jemmy.cn
+# linkedin_username:  mingjie-chen
+# jianshu_username: b663ec36410e
+email_address: info@one.wenew.uk
+# 139_username:  wepro
+# yun_username:  wepro
+# pan_username:  wepro
+# zspace_username:  wepro
+# lexar_username:  wepro
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -80,11 +80,11 @@ ba_track_id: 5fe3ef601ea06188fcd208848014b8c6
 
 # Google Analytics
 ga_track_id: 'G-ST9558N61S' # Format: UA-xxxxxx-xx
-ga_domain: www.wepro.uk
+ga_domain: one.wepro.uk
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "星辰大海，总有一处属于你 <br> Head Team @ WePro"
+sidebar-about-description: "共建和谐社区，需要每一位业主 <br> Head Team @ 马銮湾1号"
 sidebar-avatar: https://github.com/wepro-uk.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -101,6 +101,7 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Mike Lyou", href: "https://blog.mikelyou.com" },
-    { title: "Hux", href: "https://huangxuan.me" },
+    { title: "小区系统", href: "https://fwzj-pm.17bbw.com/" },
+    { title: "企业微信", href: "https://work.weixin.qq.com/" },
+    { title: "微信公众号", href: "https://mp.weixin.qq.com/" },
   ]
