@@ -105,4 +105,5 @@ friends:
     { title: "企业微信", href: "https://work.weixin.qq.com/" },
     { title: "微信公众号", href: "https://mp.weixin.qq.com/" },
     { title: "通义听语", href: "https://tingwu.aliyun.com/" },
+    { title: "企业邮箱", href: "https://exmail.qq.com/login" },
   ]
