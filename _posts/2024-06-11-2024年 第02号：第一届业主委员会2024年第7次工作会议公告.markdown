@@ -70,4 +70,6 @@ tags:
 
 <center>微信扫码进入小区系统</center>
 
+- [公众号链接](https://mp.weixin.qq.com/s/9vf-sW4SqFaf_q3GRN1UDg)
+
 ![](\img\in-post\蜂窝智家.jpg)
