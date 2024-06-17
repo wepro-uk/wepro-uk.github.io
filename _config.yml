@@ -106,6 +106,7 @@ friends:
     { title: "微信公众号", href: "https://mp.weixin.qq.com/" },
     { title: "通义听语", href: "https://tingwu.aliyun.com/" },
     { title: "企业邮箱", href: "https://exmail.qq.com/login" },
+    { title: "企业文档", href: "https://docs.qq.com" },
     { title: "视频号", href: "https://channels.weixin.qq.com/" },
     { title: "秀米", href: "https://xiumi.us/" },
     { title: "文本配音", href: "https://zenvideo.qq.com/smart/tts" },
