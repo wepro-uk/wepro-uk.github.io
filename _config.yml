@@ -108,5 +108,7 @@ friends:
     { title: "企业邮箱", href: "https://exmail.qq.com/login" },
     { title: "视频号", href: "https://channels.weixin.qq.com/" },
     { title: "秀米", href: "https://xiumi.us/" },
+    { title: "文本配音", href: "https://zenvideo.qq.com/smart/tts" },
+    { title: "音视频合并", href: "https://www.hanloth.cn/tool/audio-video-combine" },
     
   ]
