@@ -2,7 +2,7 @@
 layout:     post
 title:      "2024年 第07号：关于引入第三方服务协助小区召开业主大会会议及物业选聘代理的公示"
 subtitle:   "第一届业主委员会"
-date:       2024-06-15 22:00:00
+date:       2024-06-17 23:00:00
 author:     "马銮湾1号业主委员会"
 header-img: "img/post/post-bg-2024.jpg"
 catalog: true
