@@ -2,7 +2,7 @@
 layout:     post
 title:      "工作周报：2024年6月第4周"
 subtitle:   "第一届业主委员会"
-date:       2024-06-25 22:00:00
+date:       2024-07-01 10:00:00
 author:     "马銮湾1号业主委员会"
 header-img: "img/post/post-bg-2024.jpg"
 catalog: true
