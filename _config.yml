@@ -102,7 +102,7 @@ page-mathjax: false
 friends:
   [
     { title: "小区系统", href: "https://fwzj-pm.17bbw.com/" },
-    { title: "流程审批", href: "https://app.qiaoqiaoyun.com/" }
+    { title: "流程审批", href: "https://app.qiaoqiaoyun.com/" },
     { title: "企业微信", href: "https://work.weixin.qq.com/" },
     { title: "微信公众号", href: "https://mp.weixin.qq.com/" },
     { title: "通义听语", href: "https://tingwu.aliyun.com/" },
@@ -112,5 +112,4 @@ friends:
     { title: "秀米", href: "https://xiumi.us/" },
     { title: "文本配音", href: "https://zenvideo.qq.com/smart/tts" },
     { title: "音视频合并", href: "https://www.hanloth.cn/tool/audio-video-combine" },
-    { title: "简道云", href: "https://www.jiandaoyun.com/onexiamenbay" },
   ]
