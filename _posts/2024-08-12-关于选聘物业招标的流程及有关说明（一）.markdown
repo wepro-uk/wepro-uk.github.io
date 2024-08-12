@@ -2,7 +2,7 @@
 layout:     post
 title:      "关于选聘物业招标的流程及有关说明（一）"
 subtitle:   "第一届业主委员会"
-date:       2024-08-312 09:00:00
+date:       2024-08-12 09:00:00
 author:     "马銮湾1号业主委员会"
 header-img: "img/post/post-bg-2024.jpg"
 catalog: true
