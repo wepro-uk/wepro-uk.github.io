@@ -2,7 +2,7 @@
 layout:     post
 title:      "2024年 第20号：关于第一届第二次业主大会会议延期的公告"
 subtitle:   "第一届业主委员会"
-date:       2024-10-18 22:00:00
+date:       2024-11-12 20:00:00
 author:     "马銮湾1号业主委员会"
 header-img: "img/post/post-bg-2024.jpg"
 catalog: true
